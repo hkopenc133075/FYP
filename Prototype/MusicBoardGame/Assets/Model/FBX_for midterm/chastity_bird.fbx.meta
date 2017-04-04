@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: bc0b1c73ac7894da9930f8e98790e5a8
+timeCreated: 1488353720
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bird
+    100002: bird1
+    100004: //RootNode
+    100006: joint10
+    100008: joint10 1
+    100010: joint11
+    100012: joint11 1
+    100014: joint12
+    100016: joint13
+    100018: joint14
+    100020: joint5
+    100022: joint6
+    100024: joint7
+    100026: joint8
+    100028: joint9
+    100030: L_ctrl
+    100032: L_wing
+    100034: Lower_body
+    100036: Lwing_Direct
+    100038: LWing_IK
+    100040: mask
+    100042: R_ctrl
+    100044: R_wing
+    100046: Root
+    100048: RWing_Direct
+    100050: RWing_IK
+    100052: tail_ctrl
+    100054: tail_IK
+    100056: Upper_body
+    100058: wear
+    100060: wear1
+    100062: wear2
+    100064: wear3
+    100066: wear4
+    100068: wear5
+    100070: wear6
+    400000: bird
+    400002: bird1
+    400004: //RootNode
+    400006: joint10
+    400008: joint10 1
+    400010: joint11
+    400012: joint11 1
+    400014: joint12
+    400016: joint13
+    400018: joint14
+    400020: joint5
+    400022: joint6
+    400024: joint7
+    400026: joint8
+    400028: joint9
+    400030: L_ctrl
+    400032: L_wing
+    400034: Lower_body
+    400036: Lwing_Direct
+    400038: LWing_IK
+    400040: mask
+    400042: R_ctrl
+    400044: R_wing
+    400046: Root
+    400048: RWing_Direct
+    400050: RWing_IK
+    400052: tail_ctrl
+    400054: tail_IK
+    400056: Upper_body
+    400058: wear
+    400060: wear1
+    400062: wear2
+    400064: wear3
+    400066: wear4
+    400068: wear5
+    400070: wear6
+    2300000: mask
+    2300002: wear1
+    2300004: wear2
+    2300006: wear3
+    2300008: wear4
+    2300010: wear5
+    2300012: wear6
+    3300000: mask
+    3300002: wear1
+    3300004: wear2
+    3300006: wear3
+    3300008: wear4
+    3300010: wear5
+    3300012: wear6
+    4300000: wear1
+    4300002: wear2
+    4300004: wear3
+    4300006: wear4
+    4300008: wear5
+    4300010: wear6
+    4300012: mask
+    4300014: bird1
+    9500000: //RootNode
+    13700000: bird1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

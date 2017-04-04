@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 15753ff7de3604b57a97880a95fb8c45
+timeCreated: 1488375246
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: bone_1
+    100004: bone_2
+    100006: bone_3
+    100008: bone_4
+    100010: bone_shoulder
+    100012: candy
+    100014: finger1_1
+    100016: finger1_1 1
+    100018: finger1_2
+    100020: finger1_2 1
+    100022: finger1_3
+    100024: finger1_3 1
+    100026: finger2_1
+    100028: finger2_1 1
+    100030: finger2_2
+    100032: finger2_2 1
+    100034: finger2_3
+    100036: finger2_3 1
+    100038: finger2_4
+    100040: finger2_4 1
+    100042: finger3_1
+    100044: finger3_1 1
+    100046: finger3_2
+    100048: finger3_2 1
+    100050: finger3_3
+    100052: finger3_3 1
+    100054: finger3_4
+    100056: finger3_4 1
+    100058: finger4_1
+    100060: finger4_1 1
+    100062: finger4_1 2
+    100064: finger4_1 3
+    100066: finger4_2
+    100068: finger4_2 1
+    100070: finger4_2 2
+    100072: finger4_2 3
+    100074: finger4_3
+    100076: finger4_3 1
+    100078: finger4_3 2
+    100080: finger4_3 3
+    100082: finger4_4
+    100084: finger4_4 1
+    100086: finger4_4 2
+    100088: finger4_4 3
+    100090: //RootNode
+    100092: group1
+    100094: group1 1
+    100096: group2
+    100098: group2 1
+    100100: group3
+    100102: group3 1
+    100104: group4
+    100106: group4 1
+    100108: group5
+    100110: group5 1
+    100112: head
+    100114: head_lower
+    100116: head_upper
+    100118: L_arm_lower
+    100120: L_arm_upper
+    100122: L_foot
+    100124: L_hand
+    100126: L_leg_lower
+    100128: L_leg_middle
+    100130: L_leg_upper
+    100132: pelvis
+    100134: prop
+    100136: R_arm_lower
+    100138: R_arm_upper
+    100140: R_foot
+    100142: R_hand
+    100144: R_leg_lower
+    100146: R_leg_middle
+    100148: R_leg_upper
+    100150: stick
+    400000: back
+    400002: bone_1
+    400004: bone_2
+    400006: bone_3
+    400008: bone_4
+    400010: bone_shoulder
+    400012: candy
+    400014: finger1_1
+    400016: finger1_1 1
+    400018: finger1_2
+    400020: finger1_2 1
+    400022: finger1_3
+    400024: finger1_3 1
+    400026: finger2_1
+    400028: finger2_1 1
+    400030: finger2_2
+    400032: finger2_2 1
+    400034: finger2_3
+    400036: finger2_3 1
+    400038: finger2_4
+    400040: finger2_4 1
+    400042: finger3_1
+    400044: finger3_1 1
+    400046: finger3_2
+    400048: finger3_2 1
+    400050: finger3_3
+    400052: finger3_3 1
+    400054: finger3_4
+    400056: finger3_4 1
+    400058: finger4_1
+    400060: finger4_1 1
+    400062: finger4_1 2
+    400064: finger4_1 3
+    400066: finger4_2
+    400068: finger4_2 1
+    400070: finger4_2 2
+    400072: finger4_2 3
+    400074: finger4_3
+    400076: finger4_3 1
+    400078: finger4_3 2
+    400080: finger4_3 3
+    400082: finger4_4
+    400084: finger4_4 1
+    400086: finger4_4 2
+    400088: finger4_4 3
+    400090: //RootNode
+    400092: group1
+    400094: group1 1
+    400096: group2
+    400098: group2 1
+    400100: group3
+    400102: group3 1
+    400104: group4
+    400106: group4 1
+    400108: group5
+    400110: group5 1
+    400112: head
+    400114: head_lower
+    400116: head_upper
+    400118: L_arm_lower
+    400120: L_arm_upper
+    400122: L_foot
+    400124: L_hand
+    400126: L_leg_lower
+    400128: L_leg_middle
+    400130: L_leg_upper
+    400132: pelvis
+    400134: prop
+    400136: R_arm_lower
+    400138: R_arm_upper
+    400140: R_foot
+    400142: R_hand
+    400144: R_leg_lower
+    400146: R_leg_middle
+    400148: R_leg_upper
+    400150: stick
+    2300000: back
+    2300002: bone_1
+    2300004: bone_2
+    2300006: bone_3
+    2300008: bone_4
+    2300010: bone_shoulder
+    2300012: candy
+    2300014: finger1_1
+    2300016: finger1_1 1
+    2300018: finger1_2
+    2300020: finger1_2 1
+    2300022: finger1_3
+    2300024: finger1_3 1
+    2300026: finger2_1
+    2300028: finger2_1 1
+    2300030: finger2_2
+    2300032: finger2_2 1
+    2300034: finger2_3
+    2300036: finger2_3 1
+    2300038: finger2_4
+    2300040: finger2_4 1
+    2300042: finger3_1
+    2300044: finger3_1 1
+    2300046: finger3_2
+    2300048: finger3_2 1
+    2300050: finger3_3
+    2300052: finger3_3 1
+    2300054: finger3_4
+    2300056: finger3_4 1
+    2300058: finger4_1
+    2300060: finger4_1 1
+    2300062: finger4_1 2
+    2300064: finger4_1 3
+    2300066: finger4_2
+    2300068: finger4_2 1
+    2300070: finger4_2 2
+    2300072: finger4_2 3
+    2300074: finger4_3
+    2300076: finger4_3 1
+    2300078: finger4_3 2
+    2300080: finger4_3 3
+    2300082: finger4_4
+    2300084: finger4_4 1
+    2300086: finger4_4 2
+    2300088: finger4_4 3
+    2300090: head_lower
+    2300092: head_upper
+    2300094: L_arm_lower
+    2300096: L_arm_upper
+    2300098: L_foot
+    2300100: L_leg_lower
+    2300102: L_leg_middle
+    2300104: L_leg_upper
+    2300106: pelvis
+    2300108: R_arm_lower
+    2300110: R_arm_upper
+    2300112: R_foot
+    2300114: R_leg_lower
+    2300116: R_leg_middle
+    2300118: R_leg_upper
+    2300120: stick
+    3300000: back
+    3300002: bone_1
+    3300004: bone_2
+    3300006: bone_3
+    3300008: bone_4
+    3300010: bone_shoulder
+    3300012: candy
+    3300014: finger1_1
+    3300016: finger1_1 1
+    3300018: finger1_2
+    3300020: finger1_2 1
+    3300022: finger1_3
+    3300024: finger1_3 1
+    3300026: finger2_1
+    3300028: finger2_1 1
+    3300030: finger2_2
+    3300032: finger2_2 1
+    3300034: finger2_3
+    3300036: finger2_3 1
+    3300038: finger2_4
+    3300040: finger2_4 1
+    3300042: finger3_1
+    3300044: finger3_1 1
+    3300046: finger3_2
+    3300048: finger3_2 1
+    3300050: finger3_3
+    3300052: finger3_3 1
+    3300054: finger3_4
+    3300056: finger3_4 1
+    3300058: finger4_1
+    3300060: finger4_1 1
+    3300062: finger4_1 2
+    3300064: finger4_1 3
+    3300066: finger4_2
+    3300068: finger4_2 1
+    3300070: finger4_2 2
+    3300072: finger4_2 3
+    3300074: finger4_3
+    3300076: finger4_3 1
+    3300078: finger4_3 2
+    3300080: finger4_3 3
+    3300082: finger4_4
+    3300084: finger4_4 1
+    3300086: finger4_4 2
+    3300088: finger4_4 3
+    3300090: head_lower
+    3300092: head_upper
+    3300094: L_arm_lower
+    3300096: L_arm_upper
+    3300098: L_foot
+    3300100: L_leg_lower
+    3300102: L_leg_middle
+    3300104: L_leg_upper
+    3300106: pelvis
+    3300108: R_arm_lower
+    3300110: R_arm_upper
+    3300112: R_foot
+    3300114: R_leg_lower
+    3300116: R_leg_middle
+    3300118: R_leg_upper
+    3300120: stick
+    4300000: head_upper
+    4300002: head_lower
+    4300004: back
+    4300006: bone_1
+    4300008: bone_2
+    4300010: bone_3
+    4300012: bone_4
+    4300014: bone_shoulder
+    4300016: R_arm_upper
+    4300018: R_arm_lower
+    4300020: finger1_1
+    4300022: finger1_2
+    4300024: finger1_3
+    4300026: finger2_4
+    4300028: finger2_3
+    4300030: finger2_2
+    4300032: finger2_1
+    4300034: finger3_1
+    4300036: finger3_2
+    4300038: finger3_3
+    4300040: finger3_4
+    4300042: finger4_4
+    4300044: finger4_3
+    4300046: finger4_2
+    4300048: finger4_1
+    4300050: finger4_1
+    4300052: finger4_2
+    4300054: finger4_3
+    4300056: finger4_4
+    4300058: L_arm_upper
+    4300060: L_arm_lower
+    4300062: finger1_1
+    4300064: finger1_2
+    4300066: finger1_3
+    4300068: finger2_1
+    4300070: finger2_2
+    4300072: finger2_3
+    4300074: finger2_4
+    4300076: finger3_1
+    4300078: finger3_2
+    4300080: finger3_3
+    4300082: finger3_4
+    4300084: finger4_1
+    4300086: finger4_2
+    4300088: finger4_3
+    4300090: finger4_4
+    4300092: finger4_1
+    4300094: finger4_2
+    4300096: finger4_3
+    4300098: finger4_4
+    4300100: stick
+    4300102: candy
+    4300104: pelvis
+    4300106: R_leg_upper
+    4300108: R_leg_middle
+    4300110: R_leg_lower
+    4300112: R_foot
+    4300114: L_leg_upper
+    4300116: L_leg_middle
+    4300118: L_leg_lower
+    4300120: L_foot
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

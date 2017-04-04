@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="10width" size="10.000000 33.333332" />
+    <ImageTarget name="5000width" size="5000.000000 16666.666016" />
+    <ImageTarget name="50width" size="50.000000 166.666672" />
+    <ImageTarget name="2000width" size="2000.000000 6666.666504" />
+    <ImageTarget name="500width" size="500.000000 1666.666626" />
+    <ImageTarget name="100Width" size="100.000000 333.333344" />
+    <ImageTarget name="bg_a" size="157.000000 156.915359" />
+    <ImageTarget name="so_mi_do" size="30.000000 99.385475" />
+    <ImageTarget name="chastity" size="100.000000 100.084602" />
+  </Tracking>
+</QCARConfig>

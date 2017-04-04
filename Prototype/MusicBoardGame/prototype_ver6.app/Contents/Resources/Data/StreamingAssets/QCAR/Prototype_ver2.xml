@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Temperance_FDA" size="0.040000 0.100085" />
+    <ImageTarget name="Temperance_FAD" size="0.040000 0.100085" />
+    <ImageTarget name="Temperance_DFA" size="0.040000 0.100085" />
+    <ImageTarget name="Temperance_DAF" size="0.040000 0.100085" />
+    <ImageTarget name="Temperance_AFD" size="0.040000 0.100085" />
+    <ImageTarget name="Temperance_ADF" size="0.040000 0.100085" />
+    <ImageTarget name="Charity_GEC" size="0.040000 0.100085" />
+    <ImageTarget name="Charity_GCE" size="0.040000 0.100085" />
+    <ImageTarget name="Charity_EGC" size="0.040000 0.100085" />
+    <ImageTarget name="Charity_ECG" size="0.040000 0.100085" />
+    <ImageTarget name="Charity_CGE" size="0.040000 0.100085" />
+    <ImageTarget name="Charity_CEG" size="0.040000 0.100085" />
+    <ImageTarget name="Temperance" size="0.135000 0.101486" />
+    <ImageTarget name="Chastity" size="0.135000 0.101486" />
+  </Tracking>
+</QCARConfig>
